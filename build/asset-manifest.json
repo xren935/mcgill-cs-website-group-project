@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mcgill-cs-website-group-project/static/css/main.181d14b6.chunk.css",
+    "main.js": "/mcgill-cs-website-group-project/static/js/main.1d4e333d.chunk.js",
+    "main.js.map": "/mcgill-cs-website-group-project/static/js/main.1d4e333d.chunk.js.map",
+    "runtime-main.js": "/mcgill-cs-website-group-project/static/js/runtime-main.52c7bee7.js",
+    "runtime-main.js.map": "/mcgill-cs-website-group-project/static/js/runtime-main.52c7bee7.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/mcgill-cs-website-group-project/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.cc263435.chunk.js": "/mcgill-cs-website-group-project/static/js/2.cc263435.chunk.js",
+    "static/js/2.cc263435.chunk.js.map": "/mcgill-cs-website-group-project/static/js/2.cc263435.chunk.js.map",
+    "static/js/3.ee48ede0.chunk.js": "/mcgill-cs-website-group-project/static/js/3.ee48ede0.chunk.js",
+    "static/js/3.ee48ede0.chunk.js.map": "/mcgill-cs-website-group-project/static/js/3.ee48ede0.chunk.js.map",
+    "index.html": "/mcgill-cs-website-group-project/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/mcgill-cs-website-group-project/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.181d14b6.chunk.css.map": "/mcgill-cs-website-group-project/static/css/main.181d14b6.chunk.css.map",
+    "static/js/2.cc263435.chunk.js.LICENSE.txt": "/mcgill-cs-website-group-project/static/js/2.cc263435.chunk.js.LICENSE.txt",
+    "static/media/bot.93d46a9a.jpg": "/mcgill-cs-website-group-project/static/media/bot.93d46a9a.jpg",
+    "static/media/brain.2e2630bc.gif": "/mcgill-cs-website-group-project/static/media/brain.2e2630bc.gif",
+    "static/media/covid.557a62be.jpg": "/mcgill-cs-website-group-project/static/media/covid.557a62be.jpg",
+    "static/media/footer.css": "/mcgill-cs-website-group-project/static/media/logo-footer.1b1686be.png",
+    "static/media/logo.9cbdf219.png": "/mcgill-cs-website-group-project/static/media/logo.9cbdf219.png",
+    "static/media/ml.22fd5309.jpg": "/mcgill-cs-website-group-project/static/media/ml.22fd5309.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52c7bee7.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.cc263435.chunk.js",
+    "static/css/main.181d14b6.chunk.css",
+    "static/js/main.1d4e333d.chunk.js"
+  ]
+}
